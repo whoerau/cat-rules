@@ -1,3 +1,4 @@
 payload:
   - DOMAIN,translate.google.cn
   - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,highwebmedia.com
