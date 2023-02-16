@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,alicdn.com
   - DOMAIN-SUFFIX,backblazeb2.com
   - DOMAIN-SUFFIX,cdn-apple.com
+  - DOMAIN-SUFFIX,chaturbate.com
