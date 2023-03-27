@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,backblazeb2.com
   - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,chaturbate.com
+  - DOMAIN-SUFFIX,githubusercontent.com
