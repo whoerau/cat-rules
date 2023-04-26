@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,chaturbate.com
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,beosin.com
