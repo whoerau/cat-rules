@@ -13,6 +13,3 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,beosin.com
-  - DOMAIN-SUFFIX,xhslink.com
-  - DOMAIN-SUFFIX,xiaohongshu.com
-  - DOMAIN-SUFFIX,xhscdn.com 
