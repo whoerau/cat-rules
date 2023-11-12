@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,beosin.com
+  - DOMAIN-SUFFIX,intlgame.com
