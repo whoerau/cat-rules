@@ -16,3 +16,5 @@ payload:
   - DOMAIN-SUFFIX,intlgame.com
   - DOMAIN-SUFFIX,tdatamaster.com
   - DOMAIN-SUFFIX,proximabeta.com
+  - DOMAIN-SUFFIX,xiaohongshu.net
+  - DOMAIN-SUFFIX,xhscdn.net
