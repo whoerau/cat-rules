@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN-SUFFIX,supercell.com
+  - DOMAIN-SUFFIX,clashofclans.com
