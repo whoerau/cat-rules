@@ -10,3 +10,5 @@ payload:
   - DOMAIN-SUFFIX,tdatamaster.com
   - DOMAIN-SUFFIX,proximabeta.com
   - DOMAIN-SUFFIX,alchemy.com
+  - DOMAIN-SUFFIX,fujifilm.com
+  - DOMAIN-SUFFIX,fujifilm.com.cn
