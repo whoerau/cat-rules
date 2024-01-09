@@ -1,7 +1,7 @@
 payload:
   - IP-CIDR,182.43.124.6/32
   - IP-CIDR,39.102.194.95/32
-  #- DOMAIN,appboot.netflix.com
-  #- DOMAIN,ios.prod.cloud.netflix.com
+  - DOMAIN,appboot.netflix.com
+  - DOMAIN,ios.prod.cloud.netflix.com
   - DOMAIN,android-appboot.netflix.com
   - DOMAIN,android.prod.cloud.netflix.com
