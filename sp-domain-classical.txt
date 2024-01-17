@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,fujifilm.com
   - DOMAIN-SUFFIX,fujifilm.com.cn
   - DOMAIN-SUFFIX,fujifilm-x.com
+  - DOMAIN-SUFFIX,larksuite.com
