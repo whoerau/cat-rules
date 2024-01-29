@@ -1,6 +1,5 @@
 payload:
   - DOMAIN,translate.google.cn
-  - DOMAIN-SUFFIX,highwebmedia.com
   - DOMAIN-SUFFIX,aliyuncs.com
   - DOMAIN-SUFFIX,alicdn.com
   - DOMAIN-SUFFIX,backblazeb2.com
