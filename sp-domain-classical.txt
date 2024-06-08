@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,fujifilm.com
   - DOMAIN-SUFFIX,fujifilm-x.com
   - DOMAIN-SUFFIX,larksuite.com
+  - DOMAIN-SUFFIX,google.com
