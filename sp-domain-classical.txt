@@ -15,3 +15,4 @@ payload:
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,pikpak.com
   - DOMAIN-SUFFIX,mypikpak.com
+  - DOMAIN-SUFFIX,xiaohongshu.net
