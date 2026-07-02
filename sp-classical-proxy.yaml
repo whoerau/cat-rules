@@ -15,6 +15,9 @@ payload:
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,pikpak.com
   - DOMAIN-SUFFIX,mypikpak.com
+  - DOMAIN,mask.icloud.com,
+  - DOMAIN,mask-h2.icloud.com,
+  - DOMAIN,mask-api.icloud.com,
   - DOMAIN,gspe1-ssl.ls.apple.com
   - DOMAIN-SUFFIX,push.apple.com
   - DOMAIN-SUFFIX,apple.com
